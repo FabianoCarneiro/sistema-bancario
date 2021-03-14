@@ -3,7 +3,7 @@ package com.sistemabancario.model;
 /**
  * Representa uma agência bancária.
  * 
- * @author Manoel Campos da Silva Filho
+ * @author Manoel Campos da Silva Filho v1
  */
 public class Agencia implements Cadastro {
     private long id;
